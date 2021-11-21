@@ -1,0 +1,2 @@
+# notes
+Simple notetaking utility.
